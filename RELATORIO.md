@@ -37,7 +37,7 @@ a maoiria estou com bastante dificuldade em usar o github
 **3. Você conseguiu completar todos os exercícios? Se não, quais dificuldades encontrou?**
 
 ```
-[Sua resposta aqui]
+nao em comandos do git
 ```
 
 ---
