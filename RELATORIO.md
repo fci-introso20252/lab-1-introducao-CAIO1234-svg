@@ -74,21 +74,21 @@ acredito que em situacoes de desenvolvimento de software
 **1. Por que é importante para um profissional de Sistemas de Informação conhecer Linux?**
 
 ```
-[Sua resposta aqui]
+conhecer o linux é importante para os profissionais pois é fundamental em infraestrutura de nuvem
 ```
 
 **2. Como o conhecimento de comandos Linux pode ajudar na gestão de TI de uma empresa?**
 
 ```
-[Sua resposta aqui]
+pela sua flexibilidade,custo beneficio e seguranca
 ```
 
 **3. Cite 3 aplicações práticas do Linux no ambiente empresarial:**
 
 ```
-1. [Primeira aplicação]
-2. [Segunda aplicação]
-3. [Terceira aplicação]
+1. servidores de web e rede
+2.ferramentas de desenvolvimento de software
+3. computacao de nuvem
 ```
 
 ---
@@ -100,7 +100,7 @@ acredito que em situacoes de desenvolvimento de software
 **1. Quantos arquivos você criou no diretório `outputs/`?**
 
 ```
-Total de arquivos: _____
+Total de arquivos: ____2_
 ```
 
 **2. Qual foi o tamanho total do diretório `meu_diretorio` que você criou?**
@@ -129,13 +129,13 @@ Tamanho: _____
 **1. Você já tinha usado Git antes? Se sim, em que contexto?**
 
 ```
-[Sua resposta aqui]
+nunca
 ```
 
 **2. Qual a importância do versionamento de código para empresas?**
 
 ```
-[Sua resposta aqui - mínimo 3 linhas]
+O versionamento de código é crucial para empresas pois melhora a colaboração em equipa, mantendo um histórico completo de alterações e permitindo reverter para versões anteriores em caso de erros.As empresas beneficiam da maior produtividade e acelerando o ciclo de desenvolvimento, pois o versionamento facilita a gestão de funcionalidades, a integração de código e a resolução de conflitos de forma eficiente
 ```
 
 ---
@@ -147,13 +147,12 @@ Tamanho: _____
 **1. Que tipo de tarefas você poderia automatizar usando comandos Linux?**
 
 ```
-[Sua resposta aqui - cite pelo menos 2 exemplos]
-```
+scripting com bash e criar sequencia de comandos```
 
 **2. Você consideraria usar Linux como sistema operacional principal? Por quê?**
 
 ```
-[Sua resposta aqui]
+sim por causa dos ambientes de nuvem
 ```
 
 ---
@@ -163,13 +162,13 @@ Tamanho: _____
 **O que você achou mais interessante no laboratório?**
 
 ```
-[Sua resposta aqui]
+complexo
 ```
 
 **O que poderia ser melhorado para próximos labs?**
 
 ```
-[Sua resposta aqui]
+achei bastante dificil utilizar o git ainda mais sendo a primeira vez
 ```
 
 ---
